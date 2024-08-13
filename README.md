@@ -1,8 +1,6 @@
 # check-website-status
-i wrote a application with the python that sends the request to the a valid link and gets a respond (404 or 200 or 300 etc...) and notice the user if the host or the website is available or not !
+I wrote an application in Python that sends a request to a valid link and gets a response (404, 200, 300, etc.). It notifies the user if the host or website is available or not.
 
-you may ask what is the purpose of this project...
-i use this for my own websites to be sure they are doing fine.
-and you can even use it on your linux network beacuse the linux apache 2 uses the request & respond logic too
+You may ask, what is the purpose of this project? I use it for my own websites to ensure they are functioning properly. You can even use it on your Linux network because Linux Apache 2 uses the request and response logic too.
 
-i didnt work on gui of the project i hope if you improve the project send me the code :)
+I haven’t worked on the GUI of the project. I hope if you improve the project, you can send me the code. :)
