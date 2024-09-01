@@ -1,4 +1,4 @@
-import os  # Add this line
+import os
 import time
 import requests
 from plyer import notification
